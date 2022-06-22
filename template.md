@@ -1,17 +1,23 @@
-# Video
-Here's the VOD: 
+# Stream notes
+
+## Video
+
+Here's the VOD:
 
 Below is an embed
 
 ---
 
-# Summary
+## Summary
 
 ---
 
-# Shoutouts
-## Streamers who were active in chat
+## Shoutouts
+
+### Streamers who were active in chat
 
 ---
 
-# To Do
+## To Do
+
+- [ ]
